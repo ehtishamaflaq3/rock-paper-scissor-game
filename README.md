@@ -1,10 +1,9 @@
-# 🪨📄✂️ Rock, Paper, Scissors Game in Python
+# Rock, Paper, Scissors Game in Python
 A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Python. This project offers two exciting modes:
 - **Single Game Mode**
 - **Tournament Mode**
 
----
-## 🔧 Features
+## Features
 - **Single Game Mode**: Play one round at a time against the computer.
 - **Tournament Mode**: Choose the number of rounds and compete in a series of games with score tracking.
 - **Computer AI**: Randomized computer choices using Python’s `random` module.
@@ -17,7 +16,6 @@ A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Pyth
 
    Standard Library (random, input, print, etc.)
 
----
 ## Notes
 This is a beginner-friendly project designed to strengthen logic-building skills.
 
