@@ -9,7 +9,7 @@ A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Pyth
 - **Computer AI**: Randomized computer choices using Python’s `random` module.
 - **Replay Option**: Option to play multiple times without restarting the program.
 - **Input Validation**: Prevents invalid inputs from the user.
----
+
 ## Technologies Used:-
 
    Python 3.x
