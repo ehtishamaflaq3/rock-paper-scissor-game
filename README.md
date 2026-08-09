@@ -4,11 +4,11 @@ A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Pyth
 - **Tournament Mode**
 
 ## Features
-- **Single Game Mode**: Play one round at a time against the computer.
-- **Tournament Mode**: Choose the number of rounds and compete in a series of games with score tracking.
-- **Computer AI**: Randomized computer choices using Python’s `random` module.
-- **Replay Option**: Option to play multiple times without restarting the program.
-- **Input Validation**: Prevents invalid inputs from the user.
+- **Single Game Mode**: Play one round at a time against the computer
+- **Tournament Mode**: Choose the number of rounds and compete in a series of games with score tracking
+- **Computer AI**: Randomized computer choices using Python’s `random` module
+- **Replay Option**: Option to play multiple times without restarting the program
+- **Input Validation**: Prevents invalid inputs from the user
 
 ## Technologies Used:-
 
