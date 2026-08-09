@@ -21,6 +21,6 @@ This is a beginner-friendly project designed to strengthen logic-building skills
 
 No external libraries or dependencies are required.
 
-Feel free to contribute and improve the game.
+Feel free to contribute and improve the game
 
 This project is open-source and free to use
