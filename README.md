@@ -19,7 +19,7 @@ A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Pyth
 ## Notes
 This is a beginner-friendly project designed to strengthen logic-building skills.
 
-No external libraries or dependencies are required.
+No external libraries or dependencies are required
 
 Feel free to contribute and improve the game
 
