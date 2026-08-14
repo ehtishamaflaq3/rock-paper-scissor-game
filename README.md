@@ -12,7 +12,7 @@ A fun, interactive terminal-based **Rock, Paper, Scissors** game written in Pyth
 
 ## Technologies Used:-
 
-   Python 3.x
+   Python 3.x.
 
    Standard Library (random, input, print, etc.)
 
