@@ -15,8 +15,10 @@ def play():
 
     #2.Computer Choice Function:-
 #   Use random module to choose Rock, Paper, or Scissors for the computer
+    
     def comfunc():
         return random.choice(["rock","paper","scissor"])
+
 #3.Winner Logic:-
 #   Use if-elif-else to decide who wins
     def winnerlogic(user,comp):
