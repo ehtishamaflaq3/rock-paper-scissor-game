@@ -95,7 +95,9 @@ def tournament():
         print("NOT BAD!!!!COMPUTER WIN THE TOURNAMENT")
     else:
         print("TOURNAMENT IS TIE")
+
 # ----------------------------------------------------------------------------
+
 def main():
     while True:
         print("=======WELLCOME TO THE GAME=======")
