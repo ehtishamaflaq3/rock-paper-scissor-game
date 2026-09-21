@@ -30,7 +30,9 @@ def play():
             (user=="paper" and comp=="rock") or \
             (user =="scissor" and comp=="paper"):
             return("YOU WIN")
+        
         else:
+            
             return("COMPUTER WINS")
 #4.Main Game Loop:-
 #   Let the player play multiple rounds
