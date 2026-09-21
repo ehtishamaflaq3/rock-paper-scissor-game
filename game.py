@@ -1,4 +1,5 @@
 import random
+
 # -------------------------------------SIMPLE LOGIC FOR ONE GAME----------------------------
 
 #1.User Input Function:-
