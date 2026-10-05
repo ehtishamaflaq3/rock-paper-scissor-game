@@ -72,6 +72,7 @@ def tournament():
     rounds=int(input("HOW MANY ROUNDS YOU WANT:- "))
     userscore=0
     compscore=0
+    
     for i in range(1,rounds+1):    
         user=inpfunc()
         comp=comfunc()
