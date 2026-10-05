@@ -32,8 +32,9 @@ def play():
         else:
             
             return("COMPUTER WINS")
+
 #4.Main Game Loop:-
-#   Let the player play multiple rounds
+# Let the player play multiple rounds
 # Ask: “Play again? (yes/no)”
     while True:
         user=inpfunc()
@@ -45,6 +46,7 @@ def play():
         if again!= "Y":
             print("THANKS FOR PLAYING")
             break
+
 # ------------------------------------TOURNAMENT------------------------------------------
 def tournament():
     def inpfunc():
