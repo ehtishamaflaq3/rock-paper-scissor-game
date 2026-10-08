@@ -1,11 +1,9 @@
 import random
 
 # -------------------------------------SIMPLE LOGIC FOR ONE GAME----------------------------
-
 #1.User Input Function:-
 #   Ask the user to type Rock, Paper, or Scissors
 #   Make sure the input is valid
-
 def play():
     def inpfunc():
         print("Enter The Rock,Paper,Scissor:- ")
