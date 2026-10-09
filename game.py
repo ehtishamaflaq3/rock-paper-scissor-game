@@ -4,7 +4,6 @@ import random
 #1.User Input Function:-
 #   Ask the user to type Rock, Paper, or Scissors
 #   Make sure the input is valid
-
 def play():
     def inpfunc():
         print("Enter The Rock,Paper,Scissor:- ")
@@ -12,7 +11,6 @@ def play():
         while choice not in ["rock","paper","scissor"]:
             choice=input("INVALID!! PLEASE AGAIN CHECK IT ").lower()
         return choice
-
     #2.Computer Choice Function:-
 #   Use random module to choose Rock, Paper, or Scissors for the computer
     def comfunc():
