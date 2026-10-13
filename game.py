@@ -12,6 +12,7 @@ def play():
         while choice not in ["rock","paper","scissor"]:
             choice=input("INVALID!! PLEASE AGAIN CHECK IT ").lower()
         return choice
+        
     #2.Computer Choice Function:-
 #   Use random module to choose Rock, Paper, or Scissors for the computer
     def comfunc():
