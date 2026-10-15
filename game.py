@@ -46,6 +46,7 @@ def play():
             break
 
 # ------------------------------------TOURNAMENT------------------------------------------
+
 def tournament():
     def inpfunc():
         print("Enter The Rock,Paper,Scissor:- ")
